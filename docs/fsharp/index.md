@@ -21,4 +21,3 @@ This is still in-progress.
 * [F# Language Reference](https://msdn.microsoft.com/en-us/visualfsharpdocs/conceptual/fsharp-language-reference)
 * [Visual F# Development Portal](https://msdn.microsoft.com/en-us/visualfsharpdocs/conceptual/visual-fsharp-development-portal)
 * [Getting started with F# on .NET Core](getting-started-netcore.md)
-* [Asynchronous programming](async.md)
